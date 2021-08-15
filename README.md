@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Angular CLI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- <img src="www.ifsc.edu.br"
 
 <!---
 Re722/Re722 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
