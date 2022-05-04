@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Re722
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Angular CLI
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Angular 9,Apache-Cordova"Android and IOS",JAVA,JAVASCRIPT.
+- 💞️ I’m looking to collaborate on SOME PROJECTS
 - 📫 How to reach me ...
 - <img src="www.ifsc.edu.br"
 
