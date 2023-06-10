@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Re722
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Angular 9,Apache-Cordova"Android and IOS",JAVA,JAVASCRIPT.
-- 💞️ I’m looking to collaborate on SOME PROJECTS
-- 📫 How to reach me ...
+- 👀 I’m interested in deal with new projects.
+- I would like to developer with Javascript, Typescript, Java or PYthon projects.
+- - 📫 How to reach me ...
 - <img src="www.ifsc.edu.br"
 
 <!---
